@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShehanEraliyanage
-- 👀 I’m interested in Java,HTML,ReactJs,SQL,CSS
+- 👀 I’m interested in ReactJs,Express,Node,Java,HTML,,SQL,CSS
 - 🌱 I’m currently Software Engineering undergraduate at SLIIT
 - 💞️ I’m looking to collaborate on Software Engineerinf Industry
 - 📫 How to reach me email - 34shehan@gmail.com || +94 76 9192 189
