@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehaneraliyanage&label=Profile%20views&color=0e75b6&style=flat" alt="shehaneraliyanage" /> </p>
 
-- 🌱 I’m currently learning **React , Next ,Express , Node , Tailwind**
+- 🌱 I’m currently learning **React , Next ,Express , Node , Tailwind , React Native**
 
 - 💬 Ask me about **MERN , Next ,Tailwind**
 
