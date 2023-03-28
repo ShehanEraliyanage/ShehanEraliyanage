@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **34shehan@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/shehaneraliyanage](www.linkedin.com/in/shehaneraliyanage)
+- 📄 Know about my experiences [https://www.linkedin.com/in/shehaneraliyanage](https://www.linkedin.com/in/shehaneraliyanage)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
